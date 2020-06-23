@@ -1,5 +1,6 @@
-# -g-vidya
-/g/'s vidya project
+# /g/'s Vidya Project
+
+**Update**: OP is going to sleep. Please submit decent ideas through pull requests using either this or the other file. This will be deleted when OP returns in a few hours
 
 Currently in its infancy and ideas round. Contribute an idea by posting it to the thread, and if you'd really like to help, submit the good ones through a pull request.
 Remember, /a/'s Katawa Shoujo had no references to 4chan or /a/, so keep the ideas identity neutral. They should be enjoyable by virtue of being entertaining, not because of where it came from.
