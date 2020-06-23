@@ -22,5 +22,7 @@ Processors, OSes, othet hardware and software suites, become the Waifus
 
 4. A rougelike game with randomly generated waifu routes.
 
+5. Feelgood Yotsuba-like adventure game
+
 ### Notes:
 There MUST be Waifus
