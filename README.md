@@ -8,3 +8,19 @@ Currently in its infancy and ideas round. Contribute an idea by posting it to th
 - Genre: TBD
 - Length: TBD
 - Deadline: TBD
+
+## Current ideas taken from thread
+
+1. A Final Fantasy or Pokemon style JRPG with romanceable party members
+Processors, OSes, othet hardware and software suites, become the Waifus
+Make the moves programming and hardware memes.
+i.e. ((recurse)), repeat the last move, may cause overflow.
+
+2. An rts based on the spaceships from conways game of life. Inspiration: https://www.youtube.com/watch?v=-FaqC4h5Ftg
+
+3. An F-zero clone.
+
+4. A rougelike game with randomly generated waifu routes.
+
+### NOTES:
+There MUST be Waifus
