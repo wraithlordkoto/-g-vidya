@@ -2,6 +2,7 @@
 /g/'s vidya project
 
 Currently in its infancy and ideas round. Contribute an idea by posting it to the thread, and if you'd really like to help, submit the good ones through a pull request.
+Remember, /a/'s Katawa Shoujo had no references to 4chan or /a/, so keep the ideas identity neutral. They should be enjoyable by virtue of being entertaining, not because of where it came from.
 
 - Technology: More than likely C++14 (and C++20) and SDL
 - 3D vs 2D: TBD
